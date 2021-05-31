@@ -1,5 +1,5 @@
 # L3T-SPYWARE
-##Um simples spyware em python que envia os logs por email
+#Um simples spyware em python que envia os logs por email
 #L3TSPY tem as seguintes funcionalidades:
 ##   - Information Gathering
 ##   - Screenshots Logger
